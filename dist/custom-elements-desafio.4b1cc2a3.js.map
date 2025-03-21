@@ -1,0 +1,1 @@
+{"mappings":"","sources":["index.ts"],"sourcesContent":["function main (){\r\n\r\n    console.log(\"Hola\"); \r\n}"],"names":[],"version":3,"file":"custom-elements-desafio.4b1cc2a3.js.map"}
